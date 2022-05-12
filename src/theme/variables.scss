@@ -74,6 +74,78 @@
   --ion-color-light-contrast-rgb: 0, 0, 0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+
+  /** bug **/
+  --ion-color-bug: #729f3f;
+	--ion-color-bug-rgb: 114,159,63;
+	--ion-color-bug-contrast: #000000;
+	--ion-color-bug-contrast-rgb: 0,0,0;
+	--ion-color-bug-shade: #648c37;
+	--ion-color-bug-tint: #80a952;
+
+  /** Dragon **/
+  --ion-color-dragon: linear-gradient(180deg, #53a4cf 50%, #f16e57 50%);;
+	--ion-color-dragon-rgb: 83,164,207;
+	--ion-color-dragon-contrast: #000000;
+	--ion-color-dragon-contrast-rgb: 0,0,0;
+	--ion-color-dragon-shade: #4990b6;
+	--ion-color-dragon-tint: #64add4;
+
+  /*** Fairy **/
+  --ion-color-fairy: #fdb9e9;
+	--ion-color-fairy-rgb: 253,185,233;
+	--ion-color-fairy-contrast: #000000;
+	--ion-color-fairy-contrast-rgb: 0,0,0;
+	--ion-color-fairy-shade: #dfa3cd;
+	--ion-color-fairy-tint: #fdc0eb;
+
+  /** Fire **/
+  --ion-color-fire: #fd7d24;
+	--ion-color-fire-rgb: 253,125,36;
+	--ion-color-fire-contrast: #000000;
+	--ion-color-fire-contrast-rgb: 0,0,0;
+	--ion-color-fire-shade: #df6e20;
+	--ion-color-fire-tint: #fd8a3a;
+
+  /** Ghost **/
+  --ion-color-ghost: #7b62a3;
+	--ion-color-ghost-rgb: 123,98,163;
+	--ion-color-ghost-contrast: #ffffff;
+	--ion-color-ghost-contrast-rgb: 255,255,255;
+	--ion-color-ghost-shade: #6c568f;
+	--ion-color-ghost-tint: #8872ac;
+
+  /** Ground **/
+  --ion-color-ground: linear-gradient(180deg, #f7de3f 50%, #ab9842 50%);
+	--ion-color-ground-rgb: 247,222,63;
+	--ion-color-ground-contrast: #000000;
+	--ion-color-ground-contrast-rgb: 0,0,0;
+	--ion-color-ground-shade: #d9c337;
+	--ion-color-ground-tint: #f8e152;
+
+  /** Normal **/
+  --ion-color-normal: #a4acaf;
+	--ion-color-normal-rgb: 164,172,175;
+	--ion-color-normal-contrast: #000000;
+	--ion-color-normal-contrast-rgb: 0,0,0;
+	--ion-color-normal-shade: #90979a;
+	--ion-color-normal-tint: #adb4b7;
+
+  /** Psychic **/
+  --ion-color-psychic: #f366b9;
+	--ion-color-psychic-rgb: 243,102,185;
+	--ion-color-psychic-contrast: #000000;
+	--ion-color-psychic-contrast-rgb: 0,0,0;
+	--ion-color-psychic-shade: #d65aa3;
+	--ion-color-psychic-tint: #f475c0;
+
+  /** flying **/
+  --ion-color-flying: linear-gradient(180deg, #3dc7ef 50%, #bdb9b8 50%);;
+	--ion-color-flying-rgb: 61,199,239;
+	--ion-color-flying-contrast: #000000;
+	--ion-color-flying-contrast-rgb: 0,0,0;
+	--ion-color-flying-shade: #36afd2;
+	--ion-color-flying-tint: #50cdf1;
 }
 
 @media (prefers-color-scheme: dark) {
